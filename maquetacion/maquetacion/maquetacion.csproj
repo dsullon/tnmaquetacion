@@ -73,6 +73,8 @@
     <Content Include="assets\img\fondo_header.jpg" />
     <Content Include="assets\img\logo.png" />
     <Content Include="assets\js\app.js" />
+    <Content Include="assets\js\contacto.js" />
+    <Content Include="contacto.html" />
     <Content Include="Global.asax" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
