@@ -76,7 +76,7 @@ h2 {
     display: none;
 }
 
-@media (min-width: 768px){
+@media (min-width: 768px) {
     .navegacion {
         display: flex;
         gap: 2rem
